@@ -21,5 +21,4 @@ The type information contains all of the types for pokemons. Each type has a uni
 
 
 
-You can view our introduction here! 
-https://www.youtube.com/watch?v=Zz0TVae4bNk
+You can view our Youtube introduction <here>(https://www.youtube.com/watch?v=Zz0TVae4bNk)! 
