@@ -1,4 +1,4 @@
-# pokemon_database
+# Pokemon Database
 
 ## i.	Accomplishments
 Our project Pokemon Trainer Hub allows users to create and manage accounts to keep track of Pokemons’ attributes and levels. It also allows users to make their Pokemon info private so that this can be hidden for battles. Additionally, users are able to view the public information of other users to plan ahead of battles. Users could synchronize their accounts in this database with their game accounts in real life.
